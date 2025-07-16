@@ -6,4 +6,4 @@ By analyzing these factors, the model can identify students who may be at risk o
 
 This project utilizes Python-based machine learning tools to build, train, and evaluate predictive models, with a strong focus on real-world educational impact. ''
  # NOTEBOOK LINK
-https://colab.research.google.com/drive/1VsAwesred4W74Rw_pI5m0OuFogjVxpxw?usp=drive_open#scrollTo=7kuOO9pKQsfZ
+https://colab.research.google.com/drive/1m5Q5DcALo0SKDsBVuLeFMAOwE9d24Ayg?usp=sharing
