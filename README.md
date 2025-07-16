@@ -1,5 +1,5 @@
 
-### 📘 Student Performance Predictor – EduQuest Coaching
+### 📘 Student Performance Predictor – EduQuest Coaching👩‍🎓
 
 **Empowering education through data-driven insights**
 
