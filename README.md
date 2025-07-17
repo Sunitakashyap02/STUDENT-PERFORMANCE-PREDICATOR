@@ -25,3 +25,4 @@ A robust predictive model with high accuracy that can be integrated into EduQues
  # NOTEBOOK LINK
 https://colab.research.google.com/drive/1m5Q5DcALo0SKDsBVuLeFMAOwE9d24Ayg?usp=sharing
 Open In Colab
+https://colab.research.google.com/github/Sunitakashyap02/STUDENT-PERFORMANCE-PREDICATOR/blob/main/Copy_of_Student_Performance_Predictor_for_EduQuest_Coaching.ipynb
